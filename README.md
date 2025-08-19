@@ -34,22 +34,24 @@ Three integrated websites for managing events:
 
 Start here, then follow in order:
 
-1. **[This README](README.md)** - Project overview and quick start
-2. **[Market Event Blueprint](market-event-blueprint.md)** - System design and structure  
-3. **[Implementation Guide](implementation-guide.md)** - Step-by-step setup instructions
-4. **[Optional Features](optional-features.md)** - Google Classroom enhancement
+1. **[QUICK START CHECKLIST](QUICK-START-CHECKLIST.md)** - 2-3 hour setup with checkboxes ⭐
+2. **[This README](README.md)** - Project overview and features
+3. **[Market Event Blueprint](market-event-blueprint.md)** - System design and structure  
+4. **[Implementation Guide](implementation-guide.md)** - Detailed setup instructions
+5. **[Optional Features](optional-features.md)** - Google Classroom enhancement
+6. **[TROUBLESHOOTING](TROUBLESHOOTING.md)** - Solutions to common problems
 
 ## Quick Start
 
 ### Prerequisites
 - Google Workspace for Education account
 - Admin access to school Google domain
-- 35-40 hours for initial setup
+- 2-3 hours for initial setup
 
 ### Setup Overview
-1. **Week 1:** Foundation setup (10 hours)
-2. **Week 2:** Integration and automation (15 hours)
-3. **Week 3:** Content creation and training (10 hours)
+1. **Follow the [Quick Start Checklist](QUICK-START-CHECKLIST.md)** - Complete setup in one session
+2. **Test everything** - Submit test entries, check emails arrive
+3. **Launch** - Share links with vendors and volunteers
 
 See [implementation guide](implementation-guide.md) for detailed setup instructions.
 
@@ -78,15 +80,16 @@ EMS/
 
 ## Time Investment
 
-- **Initial Setup:** 35-40 hours
+- **Initial Setup:** 2-3 hours (with Quick Start Checklist)
 - **Per Event:** 6-7 hours maintenance
-- **ROI:** 120 hours saved in Year 1
+- **Time Saved:** 20+ hours per event
+- **ROI:** 80-100 hours saved in Year 1
 
 ## Comparison with Alternatives
 
 | Solution | Setup Time | Cost | Per Event |
 |----------|------------|------|-----------|
-| This System | 40 hours | $0 | 7 hours |
+| This System | 2-3 hours | $0 | 7 hours |
 | Manual/Paper | 5 hours | $0 | 40+ hours |
 | Commercial Software | 10 hours | $200-500/month | 10 hours |
 | Custom Development | 200+ hours | $10,000-30,000 | 5 hours |
