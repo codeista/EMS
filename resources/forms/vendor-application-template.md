@@ -29,7 +29,8 @@
 **Phone Number** *
 - Type: Short answer
 - Required: Yes
-- Validation: Text validation > Phone number
+- Validation: Regular expression > Matches > `^[\d\s\-\+\(\)\.]+$`
+- Description: Accepts digits, spaces, dashes, plus sign, parentheses, and dots
 
 **Business Website/Social Media**
 - Type: Short answer
@@ -146,13 +147,27 @@
 
 ## Form Confirmation Message
 
+### How to Set Up:
+1. In your Google Form (edit mode)
+2. Click on **Settings** tab at the top (next to Questions and Responses)
+3. Scroll down to **Presentation** section
+4. Find **Confirmation message** field
+5. Replace default text with your custom message
+6. Save changes
+
+### Suggested Message:
 "Thank you for your vendor application! 
 
 We'll review your application and contact you within 3 business days.
 
 Stall allocation is confirmed once payment is received.
 
-If you have urgent questions, please email: market-coordinator@[school-domain]"
+If you have urgent questions, please email: marketcoordinator@schoolname.school.nz"
+
+Note: Replace with your actual contact email. This could be:
+- A school domain email (e.g., market@schoolname.school.nz)
+- A Gmail account created for the event (e.g., schoolnamemarket@gmail.com)
+- A parent volunteer's email designated for the event
 
 ## Response Spreadsheet Columns
 
@@ -192,9 +207,53 @@ Add formula column in spreadsheet:
 ```
 
 ### Status Tracking
-Add these manual columns to spreadsheet:
-- Approval Status (Pending/Approved/Rejected/Waitlist)
-- Payment Status (Pending/Received)
-- Payment Date
-- Stall Number Assigned
-- Notes
+
+Set up tracking columns immediately after creating your form - don't wait for responses!
+
+#### Initial Setup:
+1. In your form, go to **Responses** tab
+2. Click the Google Sheets icon to **Create Spreadsheet** (or link existing)
+3. Open the spreadsheet - it will have column headers from your form questions
+4. Add your tracking columns right away in the first empty columns
+5. Set up data validation and formatting before any responses arrive
+
+#### How to Add Columns:
+1. Click on the first empty column after the form response columns
+2. Add column headers for each tracking field
+3. Use data validation for dropdown options (Data > Data validation)
+4. Format columns appropriately (dates, currency, etc.)
+
+#### Recommended Tracking Columns:
+
+**Column: Approval Status**
+- Purpose: Track application review progress
+- Options: Pending, Approved, Rejected, Waitlist
+- Setup: Add data validation with dropdown list
+- Use: Update as you review each application
+
+**Column: Payment Status**
+- Purpose: Track vendor fee payments
+- Options: Pending, Received, Refunded
+- Setup: Add data validation with dropdown list
+- Use: Update when payment confirmed
+
+**Column: Payment Date**
+- Purpose: Record when payment was received
+- Format: Date (Format > Number > Date)
+- Use: Enter date of payment receipt
+
+**Column: Stall Number Assigned**
+- Purpose: Track specific stall allocation
+- Format: Text or number (e.g., "A12", "Food Court 3")
+- Use: Assign after payment received
+
+**Column: Notes**
+- Purpose: Internal comments and special requirements
+- Format: Plain text
+- Examples: "Needs corner spot", "Returning vendor", "Requires 2 tables"
+
+#### Pro Tips:
+- Use conditional formatting to highlight pending items (Format > Conditional formatting)
+- Create filters to view only approved vendors or pending payments (Data > Create a filter)
+- Sort by stall number for setup day logistics
+- Consider adding email sent checkboxes for tracking communications

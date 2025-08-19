@@ -23,11 +23,31 @@ Replace these placeholders throughout the documentation with your values:
 
 ## Google Sites URLs
 
-| Site | Template | Example |
-|------|----------|---------|
-| Public Market | sites.google.com/[school-domain]/market | sites.google.com/school.nz/market |
-| Parent Portal | sites.google.com/[school-domain]/parent-portal | sites.google.com/school.nz/parent-portal |
-| Admin Dashboard | sites.google.com/[school-domain]/market-admin | sites.google.com/school.nz/market-admin |
+### Domain Options:
+
+**Option 1: Google's Free Domain (Recommended - easiest)**
+- Format: `sites.google.com/view/[site-name]`
+- No setup required, works immediately
+- Free to use
+
+**Option 2: School Google Workspace Domain**
+- Format: `sites.google.com/[school-domain]/[site-name]`
+- Only if school has Google Workspace
+- Requires admin setup
+
+**Option 3: Custom Domain (e.g., www.schoolmarket.co.nz)**
+- Requires purchasing domain name
+- Needs Google Workspace or Google Sites subscription
+- Must configure DNS settings
+- Most professional appearance
+
+### Site URL Examples:
+
+| Site | Free Domain | School Domain | Custom Domain |
+|------|------------|---------------|---------------|
+| Public Market | sites.google.com/view/schoolname-market | sites.google.com/school.nz/market | www.schoolmarket.co.nz |
+| Parent Portal | sites.google.com/view/schoolname-parents | sites.google.com/school.nz/parent-portal | portal.schoolmarket.co.nz |
+| Admin Dashboard | sites.google.com/view/schoolname-admin | sites.google.com/school.nz/market-admin | admin.schoolmarket.co.nz |
 
 ## Event Configuration
 
