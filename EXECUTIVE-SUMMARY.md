@@ -14,21 +14,6 @@ A **free**, ready-to-use system for managing school markets and events using Goo
 ✅ **Volunteer Coordination** - Shift signups, automatic reminders, roster generation  
 ✅ **Communication Hub** - All information in one place, accessible from phones  
 
-### The Numbers That Matter
-
-| Metric | Before | After | Improvement |
-|--------|--------|-------|------------|
-| Setup Time | N/A | 3 hours | One-time investment |
-| Time Per Event | 40+ hours | 7 hours | **33 hours saved** |
-| Paper Forms | 200+ | 0 | **100% digital** |
-| Cost | $0 | $0 | Free forever |
-| Volunteer No-Shows | 30% | 5% | **6x improvement** |
-
-### Real Impact
-- **Time Saved**: 33 hours per event × 4 events = **132 hours per year**
-- **Money Saved**: 132 hours × $30/hour staff time = **$3,960 per year**
-- **Stress Reduced**: Everything organized, automated, and accessible
-
 ### How It Works
 1. **Vendors** apply online → Automatically logged → Coordinator approves → Stall assigned
 2. **Volunteers** sign up online → Choose shifts → Get reminders → Show up prepared
@@ -53,11 +38,6 @@ A **free**, ready-to-use system for managing school markets and events using Goo
 | Data loss | Google automatically backs up everything |
 | Cost overrun | Impossible - system is completely free |
 
-### Success Stories
-> "We saved 30+ hours on our Term 3 market and had zero vendor confusion. The automated emails alone were worth the setup time." - *School Coordinator*
-
-> "Finally, volunteers actually showed up! The reminder system works perfectly." - *Market Cafe Manager*
-
 ### Implementation Timeline
 - **Day 1** (3 hours): Set up system following checklist
 - **Day 2** (30 mins): Test and launch
@@ -69,12 +49,6 @@ A **free**, ready-to-use system for managing school markets and events using Goo
 2. **Allocate** 3 hours for setup
 3. **Assign** a coordinator (parent or staff)
 4. **Launch** for your next event
-
-### The Bottom Line
-**Investment**: 3 hours once  
-**Return**: 130+ hours saved per year  
-**Cost**: $0 forever  
-**Result**: Professional, stress-free event management
 
 ### Questions Decision Makers Ask
 
