@@ -30,41 +30,56 @@ Three integrated websites for managing events:
 - ✅ Mobile-friendly design
 - ✅ Scalable to other school events
 
-## Documentation
+## 📚 Documentation
 
-Start here, then follow in order:
-
+### Getting Started
 1. **[QUICK START CHECKLIST](QUICK-START-CHECKLIST.md)** - 2-3 hour setup with checkboxes ⭐
-2. **[This README](README.md)** - Project overview and features
-3. **[Market Event Blueprint](market-event-blueprint.md)** - System design and structure  
-4. **[Implementation Guide](implementation-guide.md)** - Detailed setup instructions
-5. **[Optional Features](optional-features.md)** - Google Classroom enhancement
-6. **[TROUBLESHOOTING](TROUBLESHOOTING.md)** - Solutions to common problems
+2. **[EXECUTIVE SUMMARY](EXECUTIVE-SUMMARY.md)** - One-page overview for decision makers
+3. **[FAQ](FAQ.md)** - Answers to 40+ common questions
 
-## Quick Start
+### Implementation
+4. **[Market Event Blueprint](market-event-blueprint.md)** - System design and structure  
+5. **[Implementation Guide](implementation-guide.md)** - Detailed setup instructions
+6. **[Optional Features](optional-features.md)** - Google Classroom enhancement
+
+### Support
+7. **[TROUBLESHOOTING](TROUBLESHOOTING.md)** - Solutions to common problems
+8. **[CONFIG TEMPLATE](CONFIG-TEMPLATE.md)** - Customize for your school
+
+## 🚀 Quick Start
 
 ### Prerequisites
-- Google Workspace for Education account
-- Admin access to school Google domain
-- 2-3 hours for initial setup
+- ✅ Google Workspace for Education account (free for schools)
+- ✅ Admin access to school Google domain
+- ✅ 2-3 hours for initial setup
+- ✅ Basic comfort with Google Docs/Forms
 
-### Setup Overview
-1. **Follow the [Quick Start Checklist](QUICK-START-CHECKLIST.md)** - Complete setup in one session
-2. **Test everything** - Submit test entries, check emails arrive
-3. **Launch** - Share links with vendors and volunteers
+### Three Steps to Success
+1. **📋 Print the [Quick Start Checklist](QUICK-START-CHECKLIST.md)** - Follow step-by-step
+2. **🧪 Test everything** - Submit test entries, verify emails work
+3. **🎉 Launch** - Share links with vendors and volunteers
 
-See [implementation guide](implementation-guide.md) for detailed setup instructions.
+### Need Approval First?
+Share the **[Executive Summary](EXECUTIVE-SUMMARY.md)** with your principal or board. It's a one-page document showing costs ($0) and benefits (130+ hours saved annually).
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 EMS/
-├── README.md                    # Start here - project overview
-├── market-event-blueprint.md    # System design and structure
-├── implementation-guide.md      # Step-by-step setup
-├── optional-features.md         # Google Classroom details
-├── templates/                   # Google Apps Script templates (future)
-└── resources/                   # Forms, sheets templates (future)
+├── QUICK-START-CHECKLIST.md    # ⭐ Start here - 2-3 hour setup
+├── EXECUTIVE-SUMMARY.md        # For principals/boards
+├── FAQ.md                       # Common questions answered
+├── README.md                    # Project overview
+├── TROUBLESHOOTING.md          # Problem solutions
+├── market-event-blueprint.md    # System architecture
+├── implementation-guide.md      # Detailed instructions
+├── optional-features.md         # Google Classroom
+├── CONFIG-TEMPLATE.md          # School customization
+├── templates/                   # Ready-to-use templates
+│   ├── apps-script/            # Email automation scripts
+│   └── google-sites/           # Website structures
+└── resources/                   # Forms and guides
+    └── forms/                  # Form templates
 ```
 
 ## Technology Stack
@@ -84,15 +99,6 @@ EMS/
 - **Per Event:** 6-7 hours maintenance
 - **Time Saved:** 20+ hours per event
 - **ROI:** 80-100 hours saved in Year 1
-
-## Comparison with Alternatives
-
-| Solution | Setup Time | Cost | Per Event |
-|----------|------------|------|-----------|
-| This System | 2-3 hours | $0 | 7 hours |
-| Manual/Paper | 5 hours | $0 | 40+ hours |
-| Commercial Software | 10 hours | $200-500/month | 10 hours |
-| Custom Development | 200+ hours | $10,000-30,000 | 5 hours |
 
 ## Support & Maintenance
 
