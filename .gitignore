@@ -1,6 +1,7 @@
 # Project specific
 config.md
 *-config.md
+*.code-workspace
 
 # macOS
 .DS_Store
