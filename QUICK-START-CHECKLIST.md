@@ -56,7 +56,7 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
 
 ---
 
-## Phase 4: Connect Spreadsheets (10 minutes)
+## Phase 4: Connect Spreadsheets & Add Tracking (20 minutes)
 
 ### Vendor Responses
 - [ ] Open Vendor Application form
@@ -65,12 +65,36 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
 - [ ] Create new spreadsheet: "Market Vendors"
 - [ ] Save to Spreadsheets folder
 
+### Add Vendor Tracking Columns
+- [ ] In the spreadsheet, add these column headers after the form responses:
+  - [ ] Approval Status (column U or first empty)
+  - [ ] Payment Status (next column)
+  - [ ] Payment Date (next column)
+  - [ ] Stall Number (next column)
+  - [ ] Notes (next column)
+
+### Set Up Data Validation
+- [ ] For Approval Status column:
+  - [ ] Select cells from row 2 down (e.g., U2:U1000)
+  - [ ] Data → Data validation
+  - [ ] Dropdown from a list: `Pending,Approved,Rejected,Waitlist`
+  - [ ] Click Done
+- [ ] For Payment Status column:
+  - [ ] Select cells from row 2 down (e.g., V2:V1000)
+  - [ ] Data → Data validation
+  - [ ] Dropdown from a list: `Pending,Received,Refunded`
+  - [ ] Click Done
+- [ ] For Payment Date column:
+  - [ ] Select column from row 2 down
+  - [ ] Format → Number → Date
+
 ### Volunteer Responses
 - [ ] Open Volunteer Signup form
 - [ ] Go to Responses tab
 - [ ] Click spreadsheet icon
 - [ ] Create new spreadsheet: "Market Volunteers"
 - [ ] Save to Spreadsheets folder
+- [ ] Add tracking columns: Confirmed, Reminded, Notes
 
 ---
 
