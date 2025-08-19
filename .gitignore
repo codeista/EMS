@@ -2,6 +2,8 @@
 config.md
 *-config.md
 *.code-workspace
+private-config/
+*.pdf
 
 # macOS
 .DS_Store
