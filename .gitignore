@@ -1,0 +1,71 @@
+# Project specific
+config.md
+*-config.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Google Apps Script
+.clasp.json
+appsscript.json
+
+# Node (if using for any tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Sensitive data
+credentials.json
+token.json
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Logs
+logs/
+*.log
+
+# Build outputs (future)
+dist/
+build/
