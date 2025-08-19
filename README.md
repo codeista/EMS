@@ -8,8 +8,8 @@ This system provides two approaches that can be used separately or together:
 
 ### Core System (Sites & Forms)
 Three integrated websites for managing events:
-- **Public Market Site** - Vendor stall applications and Market Cafe volunteer signups
-- **Parent Portal** - Volunteer coordination with token-based access
+- **Public Market Site** - Vendor stall applications
+- **Parent Portal** - Volunteer coordination with token-based or email access
 - **Admin Dashboard** - Complete event management tools
 
 ### Optional Enhancement (Google Classroom)
