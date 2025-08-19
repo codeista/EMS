@@ -36,6 +36,23 @@ Build them in this order:
 5. Add content to each page
 6. Click **Publish** when ready
 
+### Publishing Options
+
+#### Test Site (Recommended First)
+1. Click **Publish** button
+2. Add "-test" to your URL (e.g., `school-market-test`)
+3. Click gear icon next to Publish
+4. Uncheck "Request public search visibility"
+5. Choose viewer access:
+   - **Anyone with link** - for team testing
+   - **Specific people** - for committee only
+6. Click **Publish**
+
+#### Production Site
+1. Remove "-test" from URL when ready
+2. Enable search visibility if desired
+3. Set to "Anyone on web" for public access
+
 ### Adding Pages
 1. Right sidebar → Pages
 2. Click **+** to add page

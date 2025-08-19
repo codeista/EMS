@@ -138,8 +138,11 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
   - [ ] Volunteer Roster
   - [ ] Task Checklist
   - [ ] Resources
-- [ ] Share → Specific people → Add coordinator emails only
-- [ ] Publish
+- [ ] Publish settings:
+  - [ ] URL: Add "-test" for testing (e.g., `market-admin-test`)
+  - [ ] Uncheck "Request public search visibility"
+  - [ ] Share → Specific people → Add coordinator emails only
+- [ ] Click Publish
 
 ### Parent Portal (Semi-Private)
 - [ ] Create new blank site
@@ -151,8 +154,11 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
   - [ ] Baking Guidelines
   - [ ] Important Info
 - [ ] Embed volunteer form on Sign Up page
-- [ ] Share → Anyone with link
-- [ ] Publish
+- [ ] Publish settings:
+  - [ ] URL: Add "-test" for testing (e.g., `market-volunteers-test`)
+  - [ ] Uncheck "Request public search visibility"
+  - [ ] Share → Anyone with link
+- [ ] Click Publish
 - [ ] Copy link for newsletter
 
 ### Public Market Site
@@ -166,8 +172,12 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
   - [ ] FAQ
   - [ ] Contact
 - [ ] Embed vendor form on Vendor Information page
-- [ ] Share → Public (anyone can view)
-- [ ] Publish
+- [ ] Publish settings:
+  - [ ] URL: Add "-test" for testing (e.g., `school-market-test`)
+  - [ ] For testing: Uncheck "Request public search visibility"
+  - [ ] For production: Check it to appear in Google search
+  - [ ] Share → Anyone on web (public access)
+- [ ] Click Publish
 
 ---
 
