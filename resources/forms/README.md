@@ -8,13 +8,13 @@ These templates provide the complete structure for creating your Google Forms. C
 **File**: [vendor-application-template.md](vendor-application-template.md)  
 **Purpose**: Collect vendor/stall applications for market events  
 **Sections**: Business info, stall requirements, insurance, payment  
-**Time to implement**: 30-45 minutes
+**Time to implement**: 15-20 minutes
 
 ### 2. Market Cafe Volunteer Signup Form  
 **File**: [volunteer-signup-template.md](volunteer-signup-template.md)  
 **Purpose**: Coordinate parent volunteers for Market Cafe operations  
 **Sections**: Contact info, shift selection, baking contributions, skills  
-**Time to implement**: 30-45 minutes
+**Time to implement**: 15-20 minutes
 
 ## How to Use These Templates
 

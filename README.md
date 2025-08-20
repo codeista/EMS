@@ -96,7 +96,7 @@ EMS/
 ## Time Investment
 
 - **Initial Setup:** 2-3 hours (with Quick Start Checklist)
-- **Per Event:** 6-7 hours maintenance
+- **Per Event:** 1-2 hours maintenance
 - **Time Saved:** 20+ hours per event
 - **ROI:** 80-100 hours saved in Year 1
 

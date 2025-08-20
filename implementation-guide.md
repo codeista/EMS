@@ -15,7 +15,7 @@ This guide walks you through setting up the Market Event Management System using
 - Google Classroom for engaged volunteers
 - Mobile app access
 
-**Time Required:** 35-40 hours initial setup, 6-7 hours per event
+**Time Required:** 2.5-3 hours initial setup, 1-2 hours per event maintenance
 
 ## Prerequisites
 
@@ -187,7 +187,7 @@ If you want enhanced coordination, see [Optional Features](optional-features.md)
 - Clear old data from sheets (archive first)
 - Update dates and information
 - Test forms before opening
-- 6-7 hours total time
+- 1-2 hours total time
 
 ### Annual
 - Review and update all content
