@@ -210,6 +210,54 @@ Change I2 to your stall size column
 
 ---
 
+### 11. How to Remove Vendor or Volunteer Data
+
+**Quick Fix**: Delete the row from the spreadsheet
+
+**When You Need This**:
+- Vendor cancels their stall
+- Volunteer can't attend anymore
+- Test data needs removal
+- Privacy request to delete data
+- Duplicate entry cleanup
+
+**To Remove a Single Entry**:
+1. Open the response spreadsheet
+2. Find the row with the person's data
+3. Right-click on the row number (left side)
+4. Select "Delete row"
+5. Confirm deletion
+
+**To Remove Multiple Entries**:
+1. Hold Ctrl/Cmd and click each row number
+2. Right-click any selected row
+3. Select "Delete rows X-Y"
+4. Confirm deletion
+
+**To Archive Before Deleting** (Recommended):
+1. Select rows to remove
+2. Copy them (Ctrl/Cmd+C)
+3. Create new sheet tab: "Archive [Date]"
+4. Paste the data there
+5. Return to main sheet and delete rows
+
+**Complete Data Removal** (GDPR/Privacy):
+1. Delete from spreadsheet (as above)
+2. Open the form in edit mode
+3. Go to Responses tab
+4. Click "Individual" view
+5. Find their response
+6. Click trash icon to delete
+7. This removes from form's response store
+
+**Important Notes**:
+- Deleting from spreadsheet doesn't delete from form responses
+- Archive important data before deleting
+- Update tracking columns if they reference row numbers
+- Consider keeping cancellation records for planning
+
+---
+
 ## 💡 Prevention Tips
 
 ### Before Going Live
