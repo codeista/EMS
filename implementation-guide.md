@@ -184,7 +184,8 @@ If you want enhanced coordination, see [Optional Features](optional-features.md)
 ## Maintenance
 
 ### Per Event
-- Clear old data from sheets (archive first)
+- Archive previous event data (create new sheet tab)
+- Clear old data from sheets (see [Data Removal Instructions](TROUBLESHOOTING.md#11-how-to-remove-vendor-or-volunteer-data))
 - Update dates and information
 - Test forms before opening
 - 1-2 hours total time

@@ -93,7 +93,10 @@ Google Workspace for Education is GDPR compliant. You should:
 - Follow your school's privacy policy
 
 ### Can vendors/volunteers delete their data?
-Yes, they can request removal. You can delete individual form responses and spreadsheet rows.
+Yes, they can request removal. You can delete individual form responses and spreadsheet rows. See the [Troubleshooting Guide](TROUBLESHOOTING.md#11-how-to-remove-vendor-or-volunteer-data) for detailed instructions on:
+- Removing single or multiple entries
+- Archiving before deletion
+- Complete data removal for privacy compliance
 
 ---
 

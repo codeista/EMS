@@ -188,14 +188,14 @@ Print this checklist and tick off each step as you complete it. Don't skip steps
 - [ ] Submit test vendor application
 - [ ] Check coordinator receives email
 - [ ] Check response appears in spreadsheet
-- [ ] Delete test response
+- [ ] Delete test response (right-click row → Delete row)
 
 ### Test Volunteer Flow
 - [ ] Open parent portal site
 - [ ] Submit test volunteer signup
 - [ ] Check coordinator receives email
 - [ ] Check response appears in spreadsheet
-- [ ] Delete test response
+- [ ] Delete test response (right-click row → Delete row)
 
 ### Test on Mobile
 - [ ] Open all sites on phone
