@@ -104,10 +104,10 @@ function testEmail() {
       'This is a test email. Your form notifications are set up correctly!'
     );
     
-    // Show success message
-    SpreadsheetApp.getUi().alert('Test email sent to: ' + COORDINATOR_EMAIL);
+    // Log success message
+    console.log('Test email sent successfully to: ' + COORDINATOR_EMAIL);
     
   } catch (error) {
-    SpreadsheetApp.getUi().alert('Error: ' + error.message);
+    console.error('Error sending test email:', error.message);
   }
 }
