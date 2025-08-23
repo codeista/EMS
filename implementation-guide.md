@@ -6,13 +6,14 @@ This guide walks you through setting up the Market Event Management System using
 ## What You're Building
 
 ### Core System (Required)
-- 3 Google Sites (Public Market, Parent Portal, Admin Dashboard)
-- 2 Google Forms (Vendors, Volunteers)
-- 2 Google Sheets databases
+- 1 Public Market Site (event info & vendor applications)
+- 1 Admin Dashboard (Google Sheets for management)
+- 2 Google Forms (vendor and volunteer signups)
 - Automated email notifications
 
-### Optional Enhancement
-- Google Classroom for engaged volunteers
+### Optional Enhancements
+- Parent Portal Site (dedicated volunteer hub - NOT required)
+- Google Classroom integration
 - Mobile app access
 
 **Time Required:** 2.5-3 hours initial setup, 1-2 hours per event maintenance

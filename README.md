@@ -4,13 +4,14 @@ Event management for schools using Google Workspace.
 
 ## Components
 
-### Core System
-- **Public Site** - Vendor applications
-- **Parent Portal** - Volunteer signups
-- **Admin Dashboard** - Event management
+### Core System (Required)
+- **Public Market Site** - Event info and vendor applications
+- **Volunteer Form** - Direct volunteer signups via Google Forms
+- **Admin Dashboard** - Central management in Google Sheets
 
-### Optional
-- **Google Classroom** - Additional coordination features
+### Optional Enhancements
+- **Parent Portal Site** - Dedicated volunteer hub (if needed)
+- **Google Classroom** - Advanced coordination features
 
 ## Features
 

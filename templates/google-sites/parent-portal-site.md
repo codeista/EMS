@@ -1,7 +1,10 @@
-# Parent Portal Site Template
+# Parent Portal Site Template (OPTIONAL)
+
+## When to Use This
+**Note**: This portal is OPTIONAL. Volunteer signups work perfectly through Google Forms alone. Only create this site if you want a dedicated volunteer information hub.
 
 ## Site Overview
-**Purpose**: Volunteer coordination hub for Market Cafe  
+**Purpose**: Enhanced volunteer coordination hub (beyond basic form signups)  
 **URL**: `sites.google.com/[school-domain]/parent-portal`  
 **Access**: Restricted (anyone with link)  
 **Setup Time**: 20-30 minutes

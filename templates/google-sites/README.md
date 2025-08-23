@@ -4,25 +4,37 @@ Page structures for market management websites.
 
 ## Sites Overview
 
-### 1. Public Market Site
+### Required Sites
+
+#### 1. Public Market Site
 - Audience: Public, vendors
-- Purpose: Information and applications
+- Purpose: Event information and vendor applications
 - Setup: 30-45 minutes
 
-### 2. Parent Portal
-- Audience: Parent volunteers
-- Purpose: Volunteer signups
-- Setup: 20-30 minutes
-
-### 3. Admin Dashboard
-- Audience: Organizing committee
-- Purpose: Internal management
+#### 2. Admin Dashboard
+- Audience: Organizing committee only
+- Purpose: Internal data management
 - Setup: 15-20 minutes
 
+### Optional Site
+
+#### 3. Parent Portal (NOT REQUIRED)
+- Audience: Parent volunteers
+- Purpose: Enhanced volunteer hub (forms alone work fine)
+- Setup: 20-30 minutes
+- **Note**: Volunteer signups work through Google Forms without this portal
+
 ## Build Order
+
+### Minimum Setup
 1. Admin Dashboard
-2. Parent Portal
-3. Public Market Site
+2. Public Market Site
+3. Google Forms for volunteers (no portal needed)
+
+### Full Setup (Optional)
+1. Admin Dashboard
+2. Public Market Site  
+3. Parent Portal (if desired)
 
 ## How to Create a Google Site
 

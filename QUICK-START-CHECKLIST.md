@@ -27,9 +27,9 @@
 - [ ] Open Google Drive
 - [ ] Create folder: "Market Event System"
 - [ ] Inside, create 3 subfolders:
-  - [ ] Forms
-  - [ ] Spreadsheets  
-  - [ ] Sites
+  - [ ] Forms (for volunteer & vendor forms)
+  - [ ] Spreadsheets (admin dashboard)
+  - [ ] Sites (public market site only)
 
 ---
 
