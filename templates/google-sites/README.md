@@ -1,30 +1,28 @@
 # Google Sites Templates
 
-Complete page structures for your three market management websites. Copy these templates to build your sites quickly.
+Page structures for market management websites.
 
-## The Three Sites
+## Sites Overview
 
 ### 1. Public Market Site
-**For**: Everyone - visitors, vendors, general public  
-**Purpose**: Event information and vendor applications  
-**Setup time**: 30-45 minutes
+- Audience: Public, vendors
+- Purpose: Information and applications
+- Setup: 30-45 minutes
 
-### 2. Parent Portal  
-**For**: Parent volunteers only  
-**Purpose**: Volunteer signups for Market Cafe  
-**Setup time**: 20-30 minutes
+### 2. Parent Portal
+- Audience: Parent volunteers
+- Purpose: Volunteer signups
+- Setup: 20-30 minutes
 
 ### 3. Admin Dashboard
-**For**: Organizing committee only  
-**Purpose**: Internal coordination and management  
-**Setup time**: 15-20 minutes
+- Audience: Organizing committee
+- Purpose: Internal management
+- Setup: 15-20 minutes
 
-## Quick Start Order
-
-Build them in this order:
-1. **Admin Dashboard** - Get your management hub working
-2. **Parent Portal** - Start collecting volunteers
-3. **Public Market Site** - Open vendor applications
+## Build Order
+1. Admin Dashboard
+2. Parent Portal
+3. Public Market Site
 
 ## How to Create a Google Site
 

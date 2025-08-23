@@ -1,84 +1,72 @@
 # Executive Summary - Event Management System
 
-## One-Page Overview for Decision Makers
+## What Is This?
+Event management system using Google Workspace for Education.
 
-### What Is This?
-A **free**, ready-to-use system for managing school markets and events using Google tools your school already has. No new software to buy, no accounts to create, no ongoing costs.
+## Problem
+Manual coordination of vendors and volunteers for school events.
 
-### The Problem It Solves
-- **Currently**: Paper forms, manual spreadsheets, WhatsApp chaos, missed volunteers, payment tracking nightmares
-- **With This System**: Everything digital, automated emails, organized volunteers, clear payment tracking
+## Solution
+Digital forms, automated notifications, organized tracking.
 
-### What It Does
-✅ **Vendor Management** - Online applications, automatic confirmations, stall assignments, payment tracking  
-✅ **Volunteer Coordination** - Shift signups, automatic reminders, roster generation  
-✅ **Communication Hub** - All information in one place, accessible from phones  
+## Functions
+- Vendor applications and stall assignment
+- Volunteer shift signup and tracking
+- Centralized information access  
 
-### How It Works
-1. **Vendors** apply online → Automatically logged → Coordinator approves → Stall assigned
-2. **Volunteers** sign up online → Choose shifts → Get reminders → Show up prepared
-3. **Coordinators** see everything in dashboard → Make decisions → Communicate easily
+## Workflow
+1. Vendors apply online → logged → approved → assigned
+2. Volunteers sign up → select shifts → receive notifications
+3. Coordinators manage via dashboard
 
-### Technology Required
-- ✅ Google Workspace for Education (your school already has this - it's free)
-- ✅ Internet connection
-- ✅ 3 hours to set up (one time)
+## Requirements
+- Google Workspace for Education
+- Internet connection
+- 2-3 hours initial setup
 
-### Who Can Set It Up
-- Any tech-comfortable parent or staff member
+## Setup
 - No coding required
-- Step-by-step checklist provided
+- Checklist provided
 - Troubleshooting guide included
 
-### Risk Assessment
+## Risks
 | Risk | Mitigation |
 |------|------------|
-| Technical issues | Comprehensive troubleshooting guide provided |
-| Staff training | System is intuitive, similar to Google tools already used |
-| Data loss | Google automatically backs up everything |
-| Cost overrun | Impossible - system is completely free |
+| Technical issues | Troubleshooting guide provided |
+| Staff training | Uses familiar Google tools |
+| Data loss | Google automatic backups |
+| Cost overrun | No costs |
 
-### Implementation Timeline
-- **Day 1** (3 hours): Set up system following checklist
-- **Day 2** (30 mins): Test and launch
-- **Week 1**: Vendors and volunteers start signing up
-- **Ongoing**: 1-2 hours per week managing applications
+## Timeline
+- Day 1: Setup (2-3 hours)
+- Day 2: Testing (30 mins)
+- Week 1: Go live
+- Ongoing: 1-2 hours/week
 
-### Next Steps
-1. **Review** the [Quick Start Checklist](QUICK-START-CHECKLIST.md)
-2. **Allocate** 3 hours for setup
-3. **Assign** a coordinator (parent or staff)
-4. **Launch** for your next event
+## Next Steps
+1. Review [Quick Start Checklist](QUICK-START-CHECKLIST.md)
+2. Allocate setup time
+3. Assign coordinator
+4. Launch
 
-### Questions Decision Makers Ask
+## Common Questions
 
-**Q: What if something goes wrong?**  
-A: Comprehensive troubleshooting guide included. Google's reliability is 99.9%.
+**Support?** Troubleshooting guide included.
 
-**Q: Can multiple people manage it?**  
-A: Yes, unlimited coordinators can be added.
+**Multiple managers?** Yes, unlimited.
 
-**Q: What about privacy?**  
-A: All data stays in your school's Google account. You control access.
+**Privacy?** Data stays in school's Google account.
 
-**Q: Can we customize it?**  
-A: Yes, everything can be modified to suit your needs.
+**Customizable?** Yes.
 
-**Q: What if we don't like it?**  
-A: No contracts, no cancellation needed. Just stop using it.
+**Exit strategy?** No contracts, stop anytime.
 
-### Approval Checklist
-- [ ] Zero cost - no budget required
-- [ ] Uses existing infrastructure
-- [ ] Saves significant staff time
-- [ ] Reduces volunteer coordination stress
-- [ ] Improves parent engagement
-- [ ] Professional appearance for school
-- [ ] Can be implemented immediately
-
-### Recommendation
-**Approve immediate implementation** for the next school market event. The system pays for itself in time savings from the very first use.
+## Decision Points
+- No budget required
+- Uses existing Google infrastructure
+- Reduces coordination time
+- Immediate implementation possible
 
 ---
 
-*Contact [coordinator-email] for demonstration or questions*
+Contact: [coordinator-email]

@@ -1,25 +1,23 @@
-# 🚀 Quick Start Checklist
+# Quick Start Checklist
 
-**Time Required**: 2-3 hours initial setup | **Difficulty**: Easy | **People Needed**: 1-2
-
-Print this checklist and tick off each step as you complete it. Don't skip steps!
+**Time**: 2-3 hours | **People**: 1-2
 
 ---
 
 ## Phase 1: Preparation (15 minutes)
 
 ### Prerequisites
-- [ ] You have admin access to school's Google Workspace
-- [ ] You have 2-3 hours of uninterrupted time
-- [ ] You know your market date
-- [ ] You have coordinator email addresses ready
+- [ ] Google Workspace admin access
+- [ ] 2-3 hours available
+- [ ] Market date confirmed
+- [ ] Coordinator emails ready
 
-### Gather Information
-- [ ] School's Google domain (e.g., school.edu.nz)
-- [ ] Market date and times
-- [ ] Stall prices (small/medium/large)
-- [ ] Volunteer shift times
-- [ ] Coordinator contact details
+### Information Needed
+- [ ] School Google domain
+- [ ] Market date/times
+- [ ] Stall prices
+- [ ] Volunteer shifts
+- [ ] Coordinator contacts
 
 ---
 

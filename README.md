@@ -1,52 +1,41 @@
 # Event Management System (EMS)
 
-Event management system for schools using Google Workspace for Education.
+Event management for schools using Google Workspace.
 
-## Overview
+## Components
 
-This system provides two approaches that can be used separately or together:
+### Core System
+- **Public Site** - Vendor applications
+- **Parent Portal** - Volunteer signups
+- **Admin Dashboard** - Event management
 
-### Core System (Sites & Forms)
-Three integrated websites for managing events:
-- **Public Market Site** - Vendor stall applications
-- **Parent Portal** - Volunteer coordination with token-based or email access
-- **Admin Dashboard** - Complete event management tools
-
-### Optional Enhancement (Google Classroom)
-- **Volunteer Hub** - Real-time coordination for parents who opt-in
-- **Mobile App** - Notifications and updates on the go
-- Works alongside the core system for enhanced features
+### Optional
+- **Google Classroom** - Additional coordination features
 
 ## Features
 
-- ✅ Zero software costs (uses Google for Education free tier)
-- ✅ Vendor stall application and management
-- ✅ Market Cafe volunteer coordination (shifts and baking)
-- ✅ Automated email notifications
-- ✅ Hour tracking for volunteers
-- ✅ Optional Google Classroom for enhanced coordination
-- ✅ Works with any email address (Google account optional)
-- ✅ Mobile app support for those who want it
-- ✅ Mobile-friendly design
-- ✅ Scalable to other school events
+- Vendor stall management
+- Volunteer shift coordination
+- Automated email notifications
+- Hour tracking
+- Mobile-friendly
+- No software costs (uses Google Workspace)
 
-## 📚 Documentation
+## Documentation
 
-### Getting Started
-1. **[QUICK START CHECKLIST](QUICK-START-CHECKLIST.md)** - 2-3 hour setup with checkboxes ⭐
-2. **[EXECUTIVE SUMMARY](EXECUTIVE-SUMMARY.md)** - One-page overview for decision makers
-3. **[FAQ](FAQ.md)** - Answers to 40+ common questions
+### Setup
+- [Quick Start Checklist](QUICK-START-CHECKLIST.md) - Setup steps
+- [Implementation Guide](implementation-guide.md) - Detailed instructions
+- [Config Template](CONFIG-TEMPLATE.md) - School customization
 
-### Implementation
-4. **[Market Event Blueprint](market-event-blueprint.md)** - System design and structure  
-5. **[Implementation Guide](implementation-guide.md)** - Detailed setup instructions
-6. **[Optional Features](optional-features.md)** - Google Classroom enhancement
+### Reference
+- [Market Event Blueprint](market-event-blueprint.md) - System architecture
+- [Troubleshooting](TROUBLESHOOTING.md) - Common issues
+- [FAQ](FAQ.md) - Questions and answers
+- [Executive Summary](EXECUTIVE-SUMMARY.md) - Overview
+- [Optional Features](optional-features.md) - Google Classroom
 
-### Support
-7. **[TROUBLESHOOTING](TROUBLESHOOTING.md)** - Solutions to common problems
-8. **[CONFIG TEMPLATE](CONFIG-TEMPLATE.md)** - Customize for your school
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - ✅ Google Workspace for Education account (free for schools)
